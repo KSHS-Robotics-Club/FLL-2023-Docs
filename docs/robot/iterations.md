@@ -14,3 +14,7 @@ Wheels provide more grip
 ## V 0.0.4
 Changed the back wheels to ball modules because the back wheels were causing unnecessary friction and making the robot not turn easily.
 
+## V 0.0.5 
+Changed the front wheels to large wheels from lego mindstorms set 9794.
+These wheels provide less friction and allow the robot to turn easier
+Increased the elevation of the back wheel ball modules to make the robot level to the ground. This increases stability.
