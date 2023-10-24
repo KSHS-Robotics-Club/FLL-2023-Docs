@@ -20,10 +20,14 @@ These wheels provide less friction and allow the robot to turn easier
 Increased the elevation of the back wheel ball modules to make the robot level to the ground. This increases stability.
 
 ## V 0.0.6
-Elevator reinforced to robot.
+Elevator re-enforced to robot at the front of the robot.
 
 ## V 0.0.7
-Reinforced wheels to reduce shaking.
+Re-enforced wheels to reduce shaking.
 
 ## V 0.0.8
 Added counterweight to right wheel to balance both sides.
+
+## V 0.0.9
+Added ev3 brick to the back to balance the weight of the elevator at the front. 
+Re-enforced brick so that it is held in position on the robot.
