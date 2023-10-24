@@ -24,3 +24,6 @@ Elevator reinforced to robot.
 
 ## V 0.0.7
 Reinforced wheels to reduce shaking.
+
+## V 0.0.8
+Added counterweight to right wheel to balance both sides.
