@@ -18,3 +18,9 @@ Changed the back wheels to ball modules because the back wheels were causing unn
 Changed the front wheels to large wheels from lego mindstorms set 9794.
 These wheels provide less friction and allow the robot to turn easier
 Increased the elevation of the back wheel ball modules to make the robot level to the ground. This increases stability.
+
+## V 0.0.6
+Elevator reinforced to robot.
+
+## V 0.0.7
+Reinforced wheels to reduce shaking.
