@@ -32,7 +32,10 @@ Added counterweight to right wheel to balance both sides.
 Added ev3 brick to the back to balance the weight of the elevator at the front. 
 Re-enforced brick so that it is held in position on the robot.
 
-## 0.1.0
+## V 0.1.0
 Right motor is plugged into port C
 Left motor is plugged into port B
 Elevator motor is plugged into port A
+
+## V 0.1.1 
+Shortened the extension of the elevator platform
