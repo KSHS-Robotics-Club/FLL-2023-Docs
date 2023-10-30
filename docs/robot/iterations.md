@@ -45,4 +45,4 @@ Moved the brick from the back of the robot to the middle. This centralises the c
 The centre of gravity should be close to the centre of the robot to provide more balance. 
 
 ## V 0.1.3
-Changed the front extension to a slope so that it can complete mission 13.
+Created a new front extension that is a slope so that it can complete mission 13.
