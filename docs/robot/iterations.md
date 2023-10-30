@@ -43,3 +43,6 @@ Shortened the extension of the elevator platform
 ## V 0.1.2
 Moved the brick from the back of the robot to the middle. This centralises the centre of gravity.
 The centre of gravity should be close to the centre of the robot to provide more balance. 
+
+## V 0.1.3
+Changed the front extension to a slope so that it can complete mission 13.
