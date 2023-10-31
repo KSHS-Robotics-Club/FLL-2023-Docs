@@ -50,3 +50,12 @@ Created a new front extension that is a slope so that it can complete mission 13
 ## V 0.1.4
 Added metal balls to the front elevator stability structure to prevent back from jumping. 
 Increase robot stability
+
+## V 0.1.5
+moved metal balls to the back of the elevator because wheels started becoming inconsistent.
+
+## V0.1.6
+Added gyro at the back to make robot more consistent
+
+## V0.1.7
+Added colour sensor to the front
