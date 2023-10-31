@@ -59,3 +59,6 @@ Added gyro at the back to make robot turn more consistently
 
 ## V0.1.7
 Added colour sensor to the front
+
+## V0.1.8
+replaced faulty gyro
