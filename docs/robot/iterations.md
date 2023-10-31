@@ -55,7 +55,7 @@ Increase robot stability
 moved metal balls to the back of the elevator because wheels started becoming inconsistent.
 
 ## V0.1.6
-Added gyro at the back to make robot more consistent
+Added gyro at the back to make robot turn more consistently
 
 ## V0.1.7
 Added colour sensor to the front
