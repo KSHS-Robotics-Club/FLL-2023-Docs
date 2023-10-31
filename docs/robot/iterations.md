@@ -46,3 +46,7 @@ The centre of gravity should be close to the centre of the robot to provide more
 
 ## V 0.1.3
 Created a new front extension that is a slope so that it can complete mission 13.
+
+## V 0.1.4
+Added metal balls to the front elevator stability structure to prevent back from jumping. 
+Increase robot stability
