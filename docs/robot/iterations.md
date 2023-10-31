@@ -52,13 +52,16 @@ Added metal balls to the front elevator stability structure to prevent back from
 Increase robot stability
 
 ## V 0.1.5
-moved metal balls to the back of the elevator because wheels started becoming inconsistent.
+Moved metal balls to the back of the elevator because wheels started becoming inconsistent.
 
-## V0.1.6
+## V 0.1.6
 Added gyro at the back to make robot turn more consistently
 
-## V0.1.7
+## V 0.1.7
 Added colour sensor to the front
 
-## V0.1.8
-replaced faulty gyro
+## V 0.1.8
+Replaced faulty gyro
+
+## V 0.1.9
+Created new hook extension to complete mission 9
