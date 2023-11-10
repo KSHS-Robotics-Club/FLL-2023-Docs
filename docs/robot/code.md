@@ -1,6 +1,3 @@
 ## Misison 3
-Used gyro sensor to measure angle to make the robot rotate consistently
-First two blocks calibrate the gyro sensor
-Third block moves the elevator up
-Fourth block makes the robot move forward
-Fifth block makes the robot turn exactly 45 degrees using the gyro sensor. 
+![Documentation_mission_3](https://github.com/KSHS-Robotics-Club/FLL-2023-Docs/assets/125808267/b5ef51ef-97e2-4432-a9d5-099345251b63)
+
