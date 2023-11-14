@@ -69,3 +69,6 @@ Created new hook extension to complete mission 9
 ## V 1.2.0
 Added support to the wheels to make them wobble less.
 Increase stability and decrease margin of error.
+
+## V 1.2.1 
+Added wedge extension to complete mission 10
