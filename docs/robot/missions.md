@@ -8,3 +8,6 @@ Completed mission 09
 
 ## 14/11/23
 Completed mission 10
+
+## 17/11/23 
+Started working on mission 2
