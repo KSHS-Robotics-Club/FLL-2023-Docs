@@ -72,3 +72,7 @@ Increase stability and decrease margin of error.
 
 ## V 1.2.1 
 Added wedge extension to complete mission 10
+
+## V 1.2.2
+Removed weight at the back of the robot because it extended too much over the edge of the board, which is illegal.
+Removed gyro sensor because it was too inconsistent.
