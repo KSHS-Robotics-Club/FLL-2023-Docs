@@ -76,3 +76,6 @@ Added wedge extension to complete mission 10
 ## V 1.2.2
 Removed weight at the back of the robot because it extended too much over the edge of the board, which is illegal.
 Removed gyro sensor because it was too inconsistent.
+
+## V 1.2.3
+Changed the brick piece at the back of the robot to prevent it from extending outwards and violating the rules which state that the robot must be completely inside the launch area. 
