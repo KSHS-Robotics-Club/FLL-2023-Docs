@@ -78,4 +78,7 @@ Removed weight at the back of the robot because it extended too much over the ed
 Removed gyro sensor because it was too inconsistent.
 
 ## V 1.2.3
-Changed the brick piece at the back of the robot to prevent it from extending outwards and violating the rules which state that the robot must be completely inside the launch area. 
+Changed the brick piece at the back of the robot to prevent it from extending outwards and violating the rules which state that the robot must be completely inside the launch area.
+
+## V 1.2.4
+Modified the hook extension so that itr is more centered and thus more precise.
