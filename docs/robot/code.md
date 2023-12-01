@@ -9,6 +9,8 @@
 ![Documentation mission 9](https://github.com/KSHS-Robotics-Club/FLL-2023-Docs/assets/125808267/d89315b1-984c-4b54-8853-7f77fb5e2f2e)
 ## New mission 9 code:
 -Once again, because gyro sensor was being inconsistent, we changed the code back to pure movement blocks to increase the consistency. 
+![Documentation_mission_9_new](https://github.com/KSHS-Robotics-Club/FLL-2023-Docs/assets/125808267/d5a7932e-b36b-4f81-b3ed-e4f97aa1c984)
+
 
 ## Mission 10
 ![Documentation_mission_10](https://github.com/KSHS-Robotics-Club/FLL-2023-Docs/assets/125808267/e40f4d5b-4142-43cb-afe1-94121feb26ed)
